@@ -41,18 +41,20 @@ html, body{
     justify-content: space-between;
     
 }
-#nav a{
-    text-decoration: none;
+#nav h5{
+    font-size: 2vw;
+    font-family: garamond;
     color:white;
-    
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
-
 
 #heading{
     margin-top: 90px;
     color: white;
     cursor: default;
     text-transform: uppercase;
+    
 }
 .bounding{
     width:fit-content;
